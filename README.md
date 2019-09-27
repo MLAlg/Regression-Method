@@ -1,6 +1,8 @@
 # Regression-Method
-Supervided Learning, 
+problem: supervided learning, 
+
+type: regression
 
 dataset: Boston house-prices,
 
-linear models comparison: SGD, SVM, Extra Tree
+linear models compared: SGD, SVM, Extra Tree
